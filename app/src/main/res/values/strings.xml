@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Конвертация валюты</string>
+    <string name="currency_input_from">100</string>
+    <string name="name_currency_from">USD</string>
+    <string name="name_currency_to">EUR</string>
+    <string name="sum_oper_name">Сумма</string>
+    <string name="text_valute">Валюта</string>
+    <string name="end_val_text">Конечная валюта</string>
+    <string name="calculate_text">Рассчитать</string>
+    <string name="url">http://www.cbr.ru/scripts/XML_daily.asp</string>
+    <string name="empty_messsage">Нельзя конвертировать пустое значение</string>
+    <string name="negative_values">Нельзя вводить отрицательные значения</string>
+</resources>
